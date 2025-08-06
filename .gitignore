@@ -1,0 +1,22 @@
+# ملفات Visual Studio المؤقتة
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# مجلد الإخراج
+x64/
+Debug/
+Release/
+
+# ملفات النظام
+Thumbs.db
+.DS_Store
+
+# أخرى
+*.exe
+*.log
+*.obj
+*.ipch
+*.pdb
